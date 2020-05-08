@@ -1,6 +1,6 @@
 # where in the world
 
-## Click [Here](https://widw.herukoapp.com) For Live Preview 
+### Click [Here](https://widw.herokuapp.com/) For Live Preview 
 
 ## Project setup
 
